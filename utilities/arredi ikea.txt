@@ -1,5 +1,5 @@
 CAMERA
-Letto MALM no 290.024.33
+Letto MALM, no 290.024.33
 misure:
 Lunghezza: 209 cm
 Larghezza: 176 cm
@@ -7,4 +7,23 @@ Altezza: 38 cm
 Altezza testiera: 100 cm
 Lunghezza materasso: 200 cm
 Larghezza materasso: 160 cm
+
+Guardaroba BRIMNES, no 502.180.30
+Misure 
+Larghezza: 78 cm
+Profondità: 50 cm
+Altezza: 190 cm
+
+Cassettiera HEMNES, no 802.426.27
+Misure
+Larghezza: 54 cm
+Profondità: 38 cm
+Altezza: 66 cm
+
+Comodino HEMNES, no 202.004.56
+Misure
+Larghezza: 46 cm
+Profondità: 35 cm
+Altezza: 70 cm
+Profondità cassetto (interna): 23 cm
 
