@@ -1,0 +1,10 @@
+CAMERA
+Letto MALM no 290.024.33
+misure:
+Lunghezza: 209 cm
+Larghezza: 176 cm
+Altezza: 38 cm
+Altezza testiera: 100 cm
+Lunghezza materasso: 200 cm
+Larghezza materasso: 160 cm
+
